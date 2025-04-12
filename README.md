@@ -1,4 +1,4 @@
-# North_American_Sales_Retail_Analysis
+![image](https://github.com/user-attachments/assets/57ba8b18-6758-4624-bb6f-994a3a9d28ea)# North_American_Sales_Retail_Analysis
 
 ## Project Overview
 North American Retail is a major retail company operating in multiple cities in United States. The company offers a wide ranges of products 
@@ -153,14 +153,24 @@ GROUP BY SUb_Category
 *Total Products for each sub-category are 48,87,186,34 for Bookcases, Chairs, Furnishings and Tables respectively.*
 
 ## Findings
-### Product
+- Product
 North American Retail has three product subcategory which are Bookcases, Chairs, Tables and Furnishing but chairs generates the most profit 
 while Table generate the least profit for the company.
-### Customer
+- Customer
 The company's customer are segemented into three parts. We have the Consumer, Home office and Corporate segment.
 Consumer's customer tends to generate the most profit of 35427.03 While the Home Office generate the least of 13657.04.
-### Location
+- Location
 The company focused on only one country which is United State but spread across the whole states, regions and city in the United state.
 California generates the most profit and Virginia state generate the least profit.
 
 ## Recommendations
+- Improve Shipping efficiency
+Considering the average delivery days in the findings which is very high. North American Retail should push more so orders can get to customer as soon as possible.
+Also consider partnering with shipping company to improve the distribution channels. For products that requires same day delivery or customer wants same day delivery
+The compnay should ensure shipping modes promise matches the actual delivery time and advise customer on the appropriate ship mode when neccessary.
+- To improve Sales in States with low Profit
+North American Retail should invest more on advertising and other promotional strategies like Buy 2 get one free, free complimentary gift inorder to attract more customers 
+in the low sales city and state like Virginia, Michigan and Washington.
+Community engagement would also attract company's brands to customer in the regions and offering easy shopping experience like quick home delivery.
+- Explore Internation Market Expansion
+The company currently serves only United State which limit the growth potential

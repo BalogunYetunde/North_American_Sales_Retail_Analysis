@@ -1,4 +1,4 @@
-# North_American_Sales_Retail_Analysis
+# North American Sales Retail Analysis
 
 ## Project Overview
 North American Retail is a major retail company operating in multiple cities in United States. The company offers a wide ranges of products 

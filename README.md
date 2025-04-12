@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/57ba8b18-6758-4624-bb6f-994a3a9d28ea)# North_American_Sales_Retail_Analysis
+# North_American_Sales_Retail_Analysis
 
 ## Project Overview
 North American Retail is a major retail company operating in multiple cities in United States. The company offers a wide ranges of products 
@@ -171,6 +171,9 @@ The compnay should ensure shipping modes promise matches the actual delivery tim
 - To improve Sales in States with low Profit
 North American Retail should invest more on advertising and other promotional strategies like Buy 2 get one free, free complimentary gift inorder to attract more customers 
 in the low sales city and state like Virginia, Michigan and Washington.
+For Product with low profit, advertising and other promotional straegies would be recommend.
 Community engagement would also attract company's brands to customer in the regions and offering easy shopping experience like quick home delivery.
-- Explore Internation Market Expansion
-The company currently serves only United State which limit the growth potential
+- Explore International Market Expansion
+The company currently serves only United State which limit the growth potential. The company should make market research and identify like 2 or 3 countries
+then tap into the market. The market expansion would be a great opportunities for the company to tap into international demands which would improve the profit margins.
+
